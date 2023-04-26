@@ -1,9 +1,3 @@
-`TaskQueue` copied from `flutter_tools` for use in other Dart tools
-
-## Example
-
-<!-- embedme example/example.dart -->
-```dart
 import 'dart:async';
 
 import 'package:task_queue/task_queue.dart';
@@ -15,5 +9,3 @@ void main() async {
   }
   await queue.tasksComplete;
 }
-
-```
