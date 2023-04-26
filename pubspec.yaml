@@ -1,6 +1,7 @@
 name: task_queue
 description: TaskQueue copied from flutter_tools for use in other Dart tools
 version: 1.0.0
+homepage: https://github.com/IO-Design-Team/task_queue
 
 environment:
   sdk: ">=2.19.0 <3.0.0"
