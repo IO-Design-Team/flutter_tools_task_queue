@@ -6,7 +6,7 @@
 ```dart
 import 'dart:async';
 
-import 'package:task_queue/task_queue.dart';
+import 'package:flutter_tools_task_queue/flutter_tools_task_queue.dart';
 
 void main() async {
   final queue = TaskQueue();
